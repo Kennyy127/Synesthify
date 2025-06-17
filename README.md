@@ -11,7 +11,7 @@ Features:
 Getting Started
 To use this app, you'll need to set up your own Spotify credentials and environment variables. Here's how:
 1. Clone the Repository
-git clone https://github.com/your-username/synesthify.git
+git clone https://github.com/Kenny127/synesthify.git
 cd synesthify
 
 2. Create a .env File
